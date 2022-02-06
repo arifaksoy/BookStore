@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arifa\\Documents\\pratikler\\BookStore\\BookStore\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\arifa\\Documents\\BookStore\\BookStore\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arifa\\Documents\\pratikler\\BookStore\\BookStore\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\arifa\\Documents\\BookStore\\BookStore\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arifa\\Documents\\pratikler\\BookStore\\BookStore\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\arifa\\Documents\\BookStore\\BookStore\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\arifa\\Documents\\pratikler\\BookStore\\BookStore\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\Users\\arifa\\Documents\\BookStore\\BookStore\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\arifa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arifa\\Documents\\pratikler\\BookStore\\BookStore\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\arifa\\Documents\\BookStore\\BookStore\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.6, )"

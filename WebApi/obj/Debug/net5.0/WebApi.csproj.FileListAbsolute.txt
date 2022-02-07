@@ -102,3 +102,4 @@ C:\Users\arifa\Documents\BookStore\BookStore\WebApi\obj\Debug\net5.0\WebApi.dll
 C:\Users\arifa\Documents\BookStore\BookStore\WebApi\obj\Debug\net5.0\ref\WebApi.dll
 C:\Users\arifa\Documents\BookStore\BookStore\WebApi\obj\Debug\net5.0\WebApi.pdb
 C:\Users\arifa\Documents\BookStore\BookStore\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
+C:\Users\arifa\Documents\BookStore\BookStore\WebApi\bin\Debug\net5.0\FluentValidation.dll
